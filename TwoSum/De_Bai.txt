@@ -1,0 +1,11 @@
+Bài 1: Two Sum II – Input Array Is Sorted
+
+Đề:
+Cho một mảng số nguyên đã sắp xếp tăng dần arr có độ dài n và một số nguyên target.
+Hãy tìm ra hai số trong mảng có tổng bằng target. Trả về chỉ số (1-based) của 2 số đó. Nếu có nhiều đáp án thì trả về bất kỳ.
+
+Ví dụ:
+
+Input: arr = [2,7,11,15], target = 9
+
+Output: [1,2] (vì arr[0] + arr[1] = 9)
