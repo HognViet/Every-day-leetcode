@@ -19,3 +19,37 @@ c1 thì khi trúng những case lớn thì nó lại time limited nên ms sinh r
 để ý thì b sẽ thấy ở c1 cứ mỗi i ta lại phải tính giá trị lớn nhất cạnh nó vậy thì nếu case lớn
 thì sẽ rất lâu nên ta sẽ lưu trc các giá trị lớn nhất duyệt từ trái và từ phải sang 
 rồi cách tính như c1 
+
+c3
+cach nay thi ta se 2 con tro ta se duyet tu trai phai vo giua
+ct min( max left , max right) - h[i]
+nen nho h[i] la j h[i] do la gia tri ma t DANG XET 
+vay ta se xet neu h[right] > h[left] thi ta se xet ben trai left va
+neu h[left] lon hon leftmax thi ta cap nhat leftmax vi luc nay t can phai tim leftmax ma'
+con neu h[left] <= leftmax tuc la ta da tim dc leftmax r CHU Y nay vi t da xet ban dau
+h[left] < h[right] la sao tuc la gtri cua left nho hon gtri cua right con ben right co the co so
+lon hon h[right] nhung ma no lon bao nhieu thi k qtrong vi ta can tim la min( 2 max)
+ma ta da bt gtri left < gtri right => min (2 max) = h[left] r ma t da dung h[left] de
+tinh dc leftmax tsao lai nhu the vi luu y ta da xet h[left] < h[right] co nghia la min se la h[left]
+va ben phai se con co tuong >= h[right] nen muc nuoc se phu thuoc vao leftmax
+va khi ta tim dc min chinh la leftmax thi tru cho h[i] nhung ma nen nho la h[i] chinh la gtri
+ma ta dasng xet ma ta dang xet ben trai tuc la h[left] nen se la tru cho h[left]
+tuong tu neu la ben phai right thi la rightmax - h[right]
+
+sau cung tra ve bien luu tru waterTrap
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
