@@ -6,7 +6,7 @@ void printNode( Node* head);
 Node* RemoveNode(Node* head, int val);
 Node* RemoveFirstNode(Node* head);
 Node* AddNode(Node* head, int index, int val);
-Node* PrintReNode(Node* head);
+Node* ReverseNode(Node* head);
 int main() {
     Node* node = new Node(1);
     Node* node1 = new Node(2);
@@ -19,7 +19,7 @@ int main() {
     node2->next = node3;
     node3->next = node4;
     node4->next = nullptr;
-    node = PrintReNode(node);
+    node = ReverseNode(node);
     printNode(node);
     // RemoveNode(node,3);
     // RemoveFirstNode(node);
@@ -88,18 +88,26 @@ Node* AddNode(Node *head, int index, int val) {
     }
     return head;
 }
-Node* PrintReNode(Node* head) {
-    if (head == nullptr || head->next == nullptr)
-        return head;
-    Node* current = head;
-    Node* reverse = nullptr;
-    while (current->next != nullptr) {
-        reverse = current->next;
-        current->next = reverse->next;
-        reverse->next = head;
-        head = reverse;
-    }
-    return head;
+Node* ReverseNode(Node* head) {
+    // if (head == nullptr || head->next == nullptr)
+    //     return head;
+
+    // Node* current = head;
+    // Node* reverse = nullptr;
+    // while (current->next != nullptr) {
+    //     reverse = current->next;
+    //     current->next = reverse->next;
+    //     reverse->next = head;
+    //     head = reverse;
+    // }
+    if (head == nullptr) return nullptr;
+    Node* current = head->next;
+    if ( current == nullptr ) return head;
+    Node* reverse = ReverseNode(current);
+    current->next = head;
+    head->next = nullptr;
+
+    return reverse;
 }
 
 
