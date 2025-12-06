@@ -1,0 +1,15 @@
+D:\LeetCode\Bai50_Pow\bin\Debug\net10.0\Bai50_Pow.exe
+D:\LeetCode\Bai50_Pow\bin\Debug\net10.0\Bai50_Pow.deps.json
+D:\LeetCode\Bai50_Pow\bin\Debug\net10.0\Bai50_Pow.runtimeconfig.json
+D:\LeetCode\Bai50_Pow\bin\Debug\net10.0\Bai50_Pow.dll
+D:\LeetCode\Bai50_Pow\bin\Debug\net10.0\Bai50_Pow.pdb
+D:\LeetCode\Bai50_Pow\obj\Debug\net10.0\Bai50_Pow.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\Bai50_Pow\obj\Debug\net10.0\Bai50_Pow.AssemblyInfoInputs.cache
+D:\LeetCode\Bai50_Pow\obj\Debug\net10.0\Bai50_Pow.AssemblyInfo.cs
+D:\LeetCode\Bai50_Pow\obj\Debug\net10.0\Bai50_Pow.csproj.CoreCompileInputs.cache
+D:\LeetCode\Bai50_Pow\obj\Debug\net10.0\Bai50_Pow.sourcelink.json
+D:\LeetCode\Bai50_Pow\obj\Debug\net10.0\Bai50_Pow.dll
+D:\LeetCode\Bai50_Pow\obj\Debug\net10.0\refint\Bai50_Pow.dll
+D:\LeetCode\Bai50_Pow\obj\Debug\net10.0\Bai50_Pow.pdb
+D:\LeetCode\Bai50_Pow\obj\Debug\net10.0\Bai50_Pow.genruntimeconfig.cache
+D:\LeetCode\Bai50_Pow\obj\Debug\net10.0\ref\Bai50_Pow.dll
