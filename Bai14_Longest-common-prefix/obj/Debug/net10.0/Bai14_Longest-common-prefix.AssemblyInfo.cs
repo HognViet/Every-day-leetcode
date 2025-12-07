@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bai14_Longest-common-prefix")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c269586f99ca116b8b0bec35fc44db970124c7fe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+618d2a8c7ea70547c0bcf8b1dcb860c03bf8d4f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bai14_Longest-common-prefix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bai14_Longest-common-prefix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

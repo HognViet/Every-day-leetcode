@@ -20,6 +20,5 @@ class Program
         String[] strs = {"flo", "flower", "flyy"};
         String ss = LongestCommonPrefix(strs);
         System.Console.WriteLine(ss);
-
     }
 }
