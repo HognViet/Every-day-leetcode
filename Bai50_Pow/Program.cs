@@ -30,8 +30,6 @@ class Program
         {
             x = 1 /x;
         }
-        
-        
         return x;
     }
     static void Main(string[] args)

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bai50_Pow")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ffb71e929938e8e3b010c31840c07df5a5cfcd2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+457b4d08363ff4441766a4118261a052e4510f39")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bai50_Pow")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bai50_Pow")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
