@@ -1,0 +1,15 @@
+D:\LeetCode\Bai14_Longest-common-prefix\bin\Debug\net10.0\Bai14_Longest-common-prefix.exe
+D:\LeetCode\Bai14_Longest-common-prefix\bin\Debug\net10.0\Bai14_Longest-common-prefix.deps.json
+D:\LeetCode\Bai14_Longest-common-prefix\bin\Debug\net10.0\Bai14_Longest-common-prefix.runtimeconfig.json
+D:\LeetCode\Bai14_Longest-common-prefix\bin\Debug\net10.0\Bai14_Longest-common-prefix.dll
+D:\LeetCode\Bai14_Longest-common-prefix\bin\Debug\net10.0\Bai14_Longest-common-prefix.pdb
+D:\LeetCode\Bai14_Longest-common-prefix\obj\Debug\net10.0\Bai14_Longest-common-prefix.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\Bai14_Longest-common-prefix\obj\Debug\net10.0\Bai14_Longest-common-prefix.AssemblyInfoInputs.cache
+D:\LeetCode\Bai14_Longest-common-prefix\obj\Debug\net10.0\Bai14_Longest-common-prefix.AssemblyInfo.cs
+D:\LeetCode\Bai14_Longest-common-prefix\obj\Debug\net10.0\Bai14_Longest-common-prefix.csproj.CoreCompileInputs.cache
+D:\LeetCode\Bai14_Longest-common-prefix\obj\Debug\net10.0\Bai14_Longest-common-prefix.sourcelink.json
+D:\LeetCode\Bai14_Longest-common-prefix\obj\Debug\net10.0\Bai14_Longest-common-prefix.dll
+D:\LeetCode\Bai14_Longest-common-prefix\obj\Debug\net10.0\refint\Bai14_Longest-common-prefix.dll
+D:\LeetCode\Bai14_Longest-common-prefix\obj\Debug\net10.0\Bai14_Longest-common-prefix.pdb
+D:\LeetCode\Bai14_Longest-common-prefix\obj\Debug\net10.0\Bai14_Longest-common-prefix.genruntimeconfig.cache
+D:\LeetCode\Bai14_Longest-common-prefix\obj\Debug\net10.0\ref\Bai14_Longest-common-prefix.dll
